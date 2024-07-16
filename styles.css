@@ -16,16 +16,27 @@ h1 {
 form {
     display: flex;
     margin-bottom: 20px;
+    width: 100%;
+    max-width: 400px;
 }
 
-input, button {
+input {
+    flex: 1;
     padding: 10px;
     font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 10px;
 }
 
 ul {
     list-style-type: none;
     padding: 0;
+    width: 100%;
+    max-width: 400px;
 }
 
 li {
@@ -36,4 +47,16 @@ li {
     justify-content: space-between;
     align-items: center;
     border: 1px solid #ddd;
+}
+
+li button {
+    padding: 5px 10px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+li button:hover {
+    background-color: #ff1a1a;
 }
