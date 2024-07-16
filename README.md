@@ -1,6 +1,6 @@
 # planner
 Mata Kuliah : Sistem Terdistribusi
-Tugas Final kelompok 3
+Tugas Final kelompok 3 TI.610 - 2024
 Kelompok 3 :
 1.⁠ ⁠Nadya Magfira            - 20212205057
 2.⁠ ⁠Muh. Khaidir Nurdin      - 20212205068
