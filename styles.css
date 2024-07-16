@@ -40,13 +40,13 @@ ul {
 }
 
 li {
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.7); /* White with 70% opacity */
     padding: 10px;
     margin: 5px 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 1px solid #ddd;
+    border: 1px solid rgba(0, 0, 0, 0.1); /* Light grey with 10% opacity */
 }
 
 li button {
